@@ -1,0 +1,123 @@
+[
+    {
+        "ID":1,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"There is no title page or the included title page has errors or omissions.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Add a properly formatted title page.",
+        "Comment Date":"22/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"High"
+    },
+    {
+        "ID":2,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"The overall structure has weaknesses e.g. No table of contents; no proper page numbering linked to the contents; no use of header/footer options to include key details such as Registration Number on each page.",
+        "Comment Type":"Constructive",
+        "Relevance":"Medium",
+        "Actionable Suggestions":"Improve the structure.",
+        "Comment Date":"23/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"Low"
+    },
+    {
+        "ID":3,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"The structure has room for enhancement e.g. the use of numbered sections; the inclusion of key sections such as abstract, introduction, review material, method, results/findings, discussion, conclusions, scope for further work, reflections on related learning, references, appendix; the appropriate ordering of sections.",
+        "Comment Type":"Critical",
+        "Relevance":"Low",
+        "Actionable Suggestions":"Enhance the structure.",
+        "Comment Date":"24/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr Johnston",
+        "Priority":"High"
+    },
+    {
+        "ID":4,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"Figures are not numbered in sequence and/or do not have captions; figures are not formally referred to at least once, in each case.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Fix the figures.",
+        "Comment Date":"25/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"Medium"
+    },
+    {
+        "ID":5,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"Features such as Tables or Equations are not labelled and numbered in sequence and/or referred to from within text sections.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Label tables etc.",
+        "Comment Date":"26/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr Michael",
+        "Priority":"Medium"
+    },
+    {
+        "ID":6,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"Figures, tables or equations are not positioned close to where they are first referred to. (Where an appendix has been used for figures, this comment should be applied to sample figures/illustrations which may be required in the main body of the text.)",
+        "Comment Type":"Positive",
+        "Relevance":"Medium",
+        "Actionable Suggestions":"Position tables close to where they are referenced.",
+        "Comment Date":"27/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr McCrory",
+        "Priority":"Low"
+    },
+    {
+        "ID":7,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"The formatting of pages detracts from the professional appearance of the document e.g. Captions/figure numbers and related figures on different pages; Excessive gaps between text sections for no apparent reason; irregular arrangement of material which lacks a consistent style",
+        "Comment Type":"Constructive",
+        "Relevance":"Low",
+        "Actionable Suggestions":"Fix the formatting of pages.",
+        "Comment Date":"28/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"High"
+    },
+    {
+        "ID":8,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"Fonts are variable in size and/or style in ways that detract from the professional appearance of the work.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Fix the Fonts.",
+        "Comment Date":"30/11/2024",
+        "Lecturer Name or Reviewer ID":"Dr Hunter",
+        "Priority":"High"
+    },
+    {
+        "ID":9,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"Figures are not fully legible and/or do not adequately justify their inclusion for reasons such as: poor quality; not ideal to illustrate the points for which they are intended; excessive or inadequate information content; lack of focus, notably for scanned figures; poor reproduction such as significant printer cartridge related flaws; scruffy/untidy illustrations for hand-drawn works; use of pencil instead of black (or appropriate coloured) ink.",
+        "Comment Type":"Constructive",
+        "Relevance":"Medium",
+        "Actionable Suggestions":"Make Figures legible.",
+        "Comment Date":"01/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"High"
+    },
+    {
+        "ID":10,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"The overall presentation of the submission detracts from the quality of the work e.g. dirty and/or crumpled paper; illegible features such as rough and ready hand annotations; other obvious features which are not commensurate with a professional business-like presentation style.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Improve presentation quality.",
+        "Comment Date":"02/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Hutchison",
+        "Priority":"Medium"
+    },
+    {
+        "ID":11,
+        "Category":"Structure, Presetation and Layout",
+        "Comment":"Red pen has been used but this is generally reserved for marking purposes. Red should not be used in your work unless it has been permitted specifically for the coursework in question (e.g. red lines representing polysilicon wires in an electronic layout, where colour representation is standard).",
+        "Comment Type":"Positive",
+        "Relevance":"Low",
+        "Actionable Suggestions":"Change colour of writing from red pen to black or blue.",
+        "Comment Date":"03/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"Low"
+    }
+]

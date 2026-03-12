@@ -1,0 +1,90 @@
+[
+    {
+        "ID":12,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"No reference citation has been included.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Include a reference.",
+        "Comment Date":"04/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Robinson",
+        "Priority":"High"
+    },
+    {
+        "ID":13,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"There has been insufficient referencing.",
+        "Comment Type":"Positive",
+        "Relevance":"Medium",
+        "Actionable Suggestions":"Include more references.",
+        "Comment Date":"05/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Wilson",
+        "Priority":"Low"
+    },
+    {
+        "ID":14,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"The mix of reference material is out of balance e.g. excessive use of URL based references; little or no academic journal citation; insufficient textbook citation; inappropriate reference material for the work involved; insufficient technical citation such as BSI or IEC documents or other regulatory documents.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Balance the different types of references.",
+        "Comment Date":"06/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"High"
+    },
+    {
+        "ID":15,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"Expected referencing conventions have not been followed e.g. the Harvard system has not been used; embedded citations are incorrectly indicated or otherwise faulty, such as incomplete or wrongly mapped in the document.",
+        "Comment Type":"Critical",
+        "Relevance":"Low",
+        "Actionable Suggestions":"Use a valid reference style e.g. Harvard.",
+        "Comment Date":"07/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr McAlernon",
+        "Priority":"Low"
+    },
+    {
+        "ID":16,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"Specific references in the respective list(s) have not included sufficient levels of detail.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Add more detail to references.",
+        "Comment Date":"08/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"Medium"
+    },
+    {
+        "ID":17,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"One or more references have been over-played in citation.",
+        "Comment Type":"Critical",
+        "Relevance":"Low",
+        "Actionable Suggestions":"Reduce the over use of references.",
+        "Comment Date":"09/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Hutchison",
+        "Priority":"High"
+    },
+    {
+        "ID":18,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"Important and relevant references have been overlooked or omitted.",
+        "Comment Type":"Positive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Include all relevant references.",
+        "Comment Date":"10/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Jones",
+        "Priority":"Medium"
+    },
+    {
+        "ID":19,
+        "Category":"Referencing, Citation and URL usage",
+        "Comment":"The scope of the included references is not broad enough.",
+        "Comment Type":"Constructive",
+        "Relevance":"High",
+        "Actionable Suggestions":"Improve the scope of references.",
+        "Comment Date":"11/12/2024",
+        "Lecturer Name or Reviewer ID":"Dr Michael",
+        "Priority":"High"
+    }
+]

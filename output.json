@@ -1,0 +1,412 @@
+[
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "There is no title page or the included title page has errors or omissions.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Add a properly formatted title page."
+        },
+        "Relevance": "High",
+        "Comment Date":"24/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e48",
+        "Priority": "High",
+        "Tags": ["title page", "structure", "formatting"],
+        "Issues": [
+            {
+                "Description": "Missing title page",
+                "Severity": "High",
+                "Resolved": false
+            },
+            {
+                "Description": "Formatting issues on title page",
+                "Severity": "Medium",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+        "Text": "The overall structure has weaknesses e.g. No table of contents; no proper page numbering linked to the contents; no use of header/footer options to include key details such as Registration Number on each page.",
+        "Type": "Constructive",
+        "Actionable Suggestions": "Improve the structure."
+        },
+        "Relevance": "Medium",
+        "Comment Date": "23/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e48",
+        "Priority": "Low",
+        "Tags": ["structure", "table of contents", "page numbering", "header/footer"],
+        "Issues": [
+        {
+            "Description": "Missing table of contents",
+            "Severity": "High",
+            "Resolved": false
+        },
+        {
+            "Description": "No page numbering linked to contents",
+            "Severity": "Medium",
+            "Resolved": false
+        }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+        "Text": "The structure has room for enhancement e.g. the use of numbered sections; the inclusion of key sections such as abstract, introduction, review material, method, results/findings, discussion, conclusions, scope for further work, reflections on related learning, references, appendix; the appropriate ordering of sections.",
+        "Type": "Critical",
+        "Actionable Suggestions": "Enhance the structure."
+        },
+        "Relevance": "Low",
+        "Comment Date": "24/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e49",
+        "Priority": "High",
+        "Tags": ["structure", "numbered sections", "abstract", "references", "appendix"],
+        "Issues": [
+        {
+            "Description": "Missing numbered sections",
+            "Severity": "High",
+            "Resolved": false
+        },
+        {
+            "Description": "Order of sections is not appropriate",
+            "Severity": "Medium",
+            "Resolved": false
+        }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "Figures are not numbered in sequence and/or do not have captions; figures are not formally referred to at least once, in each case.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Fix the figures."
+        },
+        "Relevance": "High",
+        "Comment Date": "25/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e48",
+        "Priority": "Medium",
+        "Tags": ["figures", "numbering", "captions"],
+        "Issues": [
+            {
+                "Description": "Figures are not numbered",
+                "Severity": "High",
+                "Resolved": false
+            },
+            {
+                "Description": "Figures lack captions",
+                "Severity": "Medium",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "Features such as Tables or Equations are not labelled and numbered in sequence and/or referred to from within text sections.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Label tables etc."
+        },
+        "Relevance": "High",
+        "Comment Date": "26/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e49",
+        "Priority": "Medium",
+        "Tags": ["tables", "equations", "numbering", "labelling"],
+        "Issues": [
+            {
+                "Description": "Tables are not numbered",
+                "Severity": "Medium",
+                "Resolved": false
+            },
+            {
+                "Description": "Equations are not labelled",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "Figures, tables or equations are not positioned close to where they are first referred to. (Where an appendix has been used for figures, this comment should be applied to sample figures/illustrations which may be required in the main body of the text.)",
+            "Type": "Positive",
+            "Actionable Suggestions": "Position tables close to where they are referenced."
+        },
+        "Relevance": "Medium",
+        "Comment Date": "27/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4a",
+        "Priority": "Low",
+        "Tags": ["figures", "tables", "equations", "positioning"],
+        "Issues": [
+            {
+                "Description": "Figures and tables are poorly positioned",
+                "Severity": "Medium",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "The formatting of pages detracts from the professional appearance of the document e.g. Captions/figure numbers and related figures on different pages; Excessive gaps between text sections for no apparent reason; irregular arrangement of material which lacks a consistent style.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Fix the formatting of pages."
+        },
+        "Relevance": "Low",
+        "Comment Date": "28/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4b",
+        "Priority": "High",
+        "Tags": ["formatting", "captions", "figure numbers", "page layout"],
+        "Issues": [
+            {
+                "Description": "Inconsistent formatting",
+                "Severity": "High",
+                "Resolved": false
+            },
+            {
+                "Description": "Excessive gaps between text sections",
+                "Severity": "Medium",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "Fonts are variable in size and/or style in ways that detract from the professional appearance of the work.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Fix the Fonts."
+        },
+        "Relevance": "High",
+        "Comment Date": "30/11/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4b",
+        "Priority": "High",
+        "Tags": ["fonts", "size", "style"],
+        "Issues": [
+            {
+                "Description": "Fonts inconsistent in size and style",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "Figures are not fully legible and/or do not adequately justify their inclusion for reasons such as: poor quality; not ideal to illustrate the points for which they are intended; excessive or inadequate information content; lack of focus, notably for scanned figures; poor reproduction such as significant printer cartridge related flaws.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Make Figures legible."
+        },
+        "Relevance": "Medium",
+        "Comment Date": "01/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e48",
+        "Priority": "High",
+        "Tags": ["figures", "legibility", "quality"],
+        "Issues": [
+            {
+                "Description": "Figures not legible",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "The overall presentation of the submission detracts from the quality of the work e.g. dirty and/or crumpled paper; illegible features such as rough and ready hand annotations; other obvious features which are not commensurate with a professional business-like presentation style.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Improve presentation quality."
+        },
+        "Relevance": "High",
+        "Comment Date": "02/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4c",
+        "Priority": "Medium",
+        "Tags": ["presentation", "quality", "appearance"],
+        "Issues": [
+            {
+                "Description": "Poor presentation quality",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Structure, Presentation and Layout",
+        "Comment": {
+            "Text": "Red pen has been used but this is generally reserved for marking purposes. Red should not be used in your work unless it has been permitted specifically for the coursework in question.",
+            "Type": "Positive",
+            "Actionable Suggestions": "Change colour of writing from red pen to black or blue."
+        },
+        "Relevance": "Low",
+        "Comment Date": "03/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e48",
+        "Priority": "Low",
+        "Tags": ["red pen", "colour", "writing"],
+        "Issues": [
+            {
+                "Description": "Red pen used inappropriately",
+                "Severity": "Low",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "No reference citation has been included.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Include a reference."
+        },
+        "Relevance": "High",
+        "Comment Date": "04/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4b",
+        "Priority": "High",
+        "Tags": ["referencing", "citation", "missing"],
+        "Issues": [
+            {
+                "Description": "No citation included",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "There has been insufficient referencing.",
+            "Type": "Positive",
+            "Actionable Suggestions": "Include more references."
+        },
+        "Relevance": "Medium",
+        "Comment Date": "05/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4b",
+        "Priority": "Low",
+        "Tags": ["referencing", "citation", "insufficient"],
+        "Issues": [
+            {
+                "Description": "Insufficient references",
+                "Severity": "Medium",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "The mix of reference material is out of balance e.g. excessive use of URL-based references; little or no academic journal citation; insufficient textbook citation.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Balance the different types of references."
+        },
+        "Relevance": "High",
+        "Comment Date": "06/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4b",
+        "Priority": "High",
+        "Tags": ["referencing", "balance", "citation"],
+        "Issues": [
+            {
+                "Description": "Unbalanced reference mix",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "Expected referencing conventions have not been followed e.g. the Harvard system has not been used; embedded citations are incorrectly indicated.",
+            "Type": "Critical",
+            "Actionable Suggestions": "Use a valid reference style e.g. Harvard."
+        },
+        "Relevance": "Low",
+        "Comment Date": "07/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4d",
+        "Priority": "Low",
+        "Tags": ["referencing", "Harvard", "citation"],
+        "Issues": [
+            {
+                "Description": "Incorrect citation style",
+                "Severity": "Critical",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "Specific references in the respective list(s) have not included sufficient levels of detail.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Add more detail to references."
+        },
+        "Relevance": "High",
+        "Comment Date": "08/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4b",
+        "Priority": "Medium",
+        "Tags": ["referencing", "detail", "citation"],
+        "Issues": [
+            {
+                "Description": "Insufficient reference detail",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "One or more references have been over-played in citation.",
+            "Type": "Critical",
+            "Actionable Suggestions": "Reduce the overuse of references."
+        },
+        "Relevance": "Low",
+        "Comment Date": "09/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4e",
+        "Priority": "High",
+        "Tags": ["referencing", "overuse", "citation"],
+        "Issues": [
+            {
+                "Description": "Overuse of references",
+                "Severity": "Critical",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "Important and relevant references have been overlooked or omitted.",
+            "Type": "Positive",
+            "Actionable Suggestions": "Include all relevant references."
+        },
+        "Relevance": "High",
+        "Comment Date": "10/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4b",
+        "Priority": "Medium",
+        "Tags": ["referencing", "omitted", "citation"],
+        "Issues": [
+            {
+                "Description": "Important references omitted",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    },
+    {
+        "Category": "Referencing, Citation and URL usage",
+        "Comment": {
+            "Text": "The scope of the included references is not broad enough.",
+            "Type": "Constructive",
+            "Actionable Suggestions": "Improve the scope of references."
+        },
+        "Relevance": "High",
+        "Comment Date": "11/12/2024",
+        "ReviewerID": "674ddb814d1f6687b3115e4c",
+        "Priority": "High",
+        "Tags": ["referencing", "scope", "citation"],
+        "Issues": [
+            {
+                "Description": "Narrow reference scope",
+                "Severity": "High",
+                "Resolved": false
+            }
+        ]
+    }
+]

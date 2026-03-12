@@ -1,0 +1,9 @@
+﻿ID,Category,Comment,Comment Type,Relevance,Actionable Suggestions,Comment Date,Lecturer Name or Reviewer ID,Priority
+12,"Referencing, Citation and URL usage",No reference citation has been included.,Constructive,High,Include a reference.,04/12/2024,Dr Robinson,High
+13,"Referencing, Citation and URL usage",There has been insufficient referencing.,Positive,Medium,Includee more references.,05/12/2024,Dr Wilson,Low
+14,"Referencing, Citation and URL usage",The mix of reference material is out of balance e.g. excessive use of URL based references; little or no academic journal citation; insufficient textbook citation; inappropriate reference material for the work involved; insufficient technical citation such as BSI or IEC documents or other regulatory documents.,Constructive,High,Balance the different types of references.,06/12/2024,Dr Jones,High
+15,"Referencing, Citation and URL usage","Expected referencing conventions have not been followed e.g. the Harvard system has not been used; embedded citations are incorrectly indicated or otherwise faulty, such as incomplete or wrongly mapped in the document.",Critical,Low,Use a valid reference style e.g. Harvard.,07/12/2024,Dr McAlernon,Low
+16,"Referencing, Citation and URL usage",Specific references in the respective list(s) have not included sufficient levels of detail.,Constructive,High,Add more detail to references.,08/12/2024,Dr Jones,Medium
+17,"Referencing, Citation and URL usage",One or more references have been ‘over-played’ in citation.,Critical,Low,Reduce the over use of references.,09/12/2024,Dr Hutchison,High
+18,"Referencing, Citation and URL usage",Important and relevant references have been overlooked or omitted.,Positive,High,Include all relevant references.,10/12/2024,Dr Jones,Medium
+19,"Referencing, Citation and URL usage",The scope of the included references is not broad enough.,Constructive,High,Improve the scope of references.,11/12/2024,Dr Michael,High
